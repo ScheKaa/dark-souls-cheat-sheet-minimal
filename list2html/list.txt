@@ -1,0 +1,60 @@
+[Firelink Shrine]
+
+Keys
+Undead Asylum F2 West Key (corpse)
+
+[Lower Undead Burg]
+
+Keys
+Key to Depths (Capra Demon - drop)
+
+[Undead Parish]
+
+Keys
+Basement Key (corpse)
+
+[Depths]
+
+Keys
+Blighttown Key (Gaping Dragon drop)
+
+[Blighttown]
+
+Keys
+Key to New Londo Ruins (chest)
+
+[Anor Londo]
+
+Keys
+Lordvessel (Gwynevere, Princess of Sunlight - Gift)
+
+[Demon Ruins]
+
+Rings
+Orange Charred Ring (Centipede Demon - drop or sever tail)
+
+[Lost Izalith]
+
+Armor
+Sunlight Maggot (Chaos Bug - drop)
+
+[New Londo Ruins]
+
+Keys
+Key to the Seal (Ingward - gift upon obtaining the Lordvessel or drop)
+
+[Darkroot Garden]
+
+Rings
+Covenant of Artorias (Sif - drop)
+
+[Catacombs]
+
+Miscellaneous
+Skull Lantern (corpse and Necromancer - drop)
+
+[The Duke's Archives]
+
+Keys
+Archive Tower Giant Door Key (chest)
+Archive Tower Cell Key (Serpent Soldier drop)
